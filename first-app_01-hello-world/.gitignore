@@ -1,0 +1,11 @@
+/dist
+/tmp
+/out-tsc
+/node_modules
+/.angular
+npm-debug.log
+yarn-error.log
+.sass-cache/
+.idea/
+.DS_Store
+Thumbs.db
