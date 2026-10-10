@@ -21,6 +21,10 @@ flowchart LR
 
 Le dépôt suit un flux de type **trunk based development** : `main` est la seule branche de référence, et tout changement passe par une branche courte et une pull request.
 
+Exécution du workflow de déploiement après une fusion dans `main` :
+
+![Exécution du workflow de déploiement](docs/pipeline.png)
+
 ## Les deux workflows
 
 Ils sont définis dans [`.github/workflows/`](.github/workflows).
